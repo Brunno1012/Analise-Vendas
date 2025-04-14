@@ -46,7 +46,7 @@ Os modelos foram avaliados com base em suas previsões e desempenho. A Random Fo
 ## 💼 Autor
 
 Brunno – Estudante de Gestão da Informação na UFPR  
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com) (coloca seu link aqui)
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/brunno-klassen-3978a7342/)
 
 ---
 
