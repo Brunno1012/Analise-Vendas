@@ -49,5 +49,8 @@ Brunno – Estudante de Gestão da Informação na UFPR
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/brunno-klassen-3978a7342/)
 
 ---
-
+COMO RODAR O CÓDIGO?
+- Faça o download do arquivo "supermarket_sales - Sheet1" disponivel aqui no portifólio, após isso vá para o colab e em arquivos arraste ele para o campo. Após isso seu código vai rodar
+  normalmente na sua máquina!
+  
 📌 Projeto voltado para portfólio e aprendizado. Feedbacks são sempre bem-vindos! 
